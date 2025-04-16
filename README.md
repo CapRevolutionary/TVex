@@ -2,7 +2,7 @@
 
 TVex is a web-based tool that lets you create smart, dynamic Plex playlists with optional commercials and bumpers — like a personal curated TV channel! Built with Flask and the `plexapi`, it's your nostalgic Saturday morning lineup on demand.
 
-![TVex UI](https://i.imgur.com/XxxPlaceholder.png) <!-- Replace with actual screenshot URL -->
+![TVex UI](https://i.imgur.com/HkPUNyB.png)
 
 ---
 
@@ -68,9 +68,9 @@ TVex is a web-based tool that lets you create smart, dynamic Plex playlists with
 
 ### 🛠 Scripts Generated
 
-- **`run_playlist.py`**  
+- **`run_playlist.py - Rename This Every Playlist`**  
   Recreates the same playlist programmatically.
-- **`playlist_cleaner.py`**  
+- **`playlist_cleaner.py - Rename This Every Playlist`**  
   Deletes the generated playlist.
 
 ---
