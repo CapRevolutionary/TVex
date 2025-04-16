@@ -99,14 +99,6 @@ Example: Create a Toonami-style playlist with shuffled anime episodes, 2 bumpers
 
 ---
 
-## 💡 Roadmap Ideas
-
-- [ ] Add support for scheduling recurring playlists
-- [ ] Enhanced UI with drag-and-drop
-- [ ] Remote access with authentication
-- [ ] Preview playlist content before creating
-
----
 
 ## 🛡️ Disclaimer
 
@@ -116,4 +108,4 @@ This tool uses your local Plex server API — make sure not to expose your token
 
 ## 🧑‍💻 Author
 
-Made with ❤️ for Plex fans by [Your Name](https://github.com/yourusername)
+Made with ❤️ for Plex fans by [CapRevolutionary](https://github.com/yourusername)
