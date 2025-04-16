@@ -31,7 +31,7 @@ TVex is a web-based tool that lets you create smart, dynamic Plex playlists with
 
 1. Download The Code 
 
-   https://i.imgur.com/ih1O8QL.png
+  From Top Of Page Download ZIP
   
 2. Start the app:
 
