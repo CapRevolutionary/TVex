@@ -91,7 +91,7 @@ tvex/
 
 ## 🧪 Example
 
-Example: Create a Toonami-style playlist with shuffled anime episodes, 2 bumpers, and 2 commercials per episode.
+Example: Create a Toonami-style playlist with shuffled anime episodes, bumpers, and commercials per episode.
 
 ```bash
 # Result: Playlist with mixed ads, anime, and nostalgic vibes!
@@ -102,7 +102,7 @@ Example: Create a Toonami-style playlist with shuffled anime episodes, 2 bumpers
 
 ## 🛡️ Disclaimer
 
-This tool uses your local Plex server API — make sure not to expose your token publicly. Always secure your server URL 7 ID Are Stored Locally.
+This tool uses your local Plex server API — make sure not to expose your token publicly. Always secure your server URL And ID Are Stored Locally.
 
 ---
 
