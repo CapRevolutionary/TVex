@@ -29,26 +29,18 @@ TVex is a web-based tool that lets you create smart, dynamic Plex playlists with
 
 ### Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/CapRevolutionary/tvex.git
-   cd tvex
-   ```
+1. Download The Code 
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   https://i.imgur.com/ih1O8QL.png
+  
+2. Start the app:
 
-3. Start the app:
-   ```bash
-   python app.py
-   ```
+   Open The app.py
 
-4. Open your browser and visit:  
-   ```
+3. Open your browser and visit:  
+
    http://localhost:5000
-   ```
+ 
 
 ---
 
