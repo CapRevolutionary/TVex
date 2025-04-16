@@ -102,10 +102,10 @@ Example: Create a Toonami-style playlist with shuffled anime episodes, 2 bumpers
 
 ## 🛡️ Disclaimer
 
-This tool uses your local Plex server API — make sure not to expose your token publicly. Always secure your server.
+This tool uses your local Plex server API — make sure not to expose your token publicly. Always secure your server URL 7 ID Are Stored Locally.
 
 ---
 
 ## 🧑‍💻 Author
 
-Made with ❤️ for Plex fans by [CapRevolutionary](https://github.com/yourusername)
+Made with ❤️ for Plex fans by [CapRevolutionary](https://github.com/CapRevolutionary)

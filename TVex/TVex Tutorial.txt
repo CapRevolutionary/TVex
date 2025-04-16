@@ -1,0 +1,46 @@
+1. Launch app.py
+2. Go to localhost:5000
+3. Fill out the required boxes (nothing is stored on a server its all stored locally)
+4. once you enter your plex url & token click remember me so u wont need to do it every time
+5. PLAYLIST SECTION
+6. Enter playlist name - the name u want to call it
+7. Enter the name of the library you want to use exactly as its named in plex - TV Shows,Movies...
+8. Enter the name of the library that has commercials - only do this if u want commercials (ATM this only uses libraries and NOT collections so if you want year or theme commercials you'll have to add them to a new library)
+9. Press Load Shows and click what you want in the playlist 
+10. If you want commercials now click add commericals and choose your desired amount ) commercials are set between episodes example episode 1 - commercial - episode 2
+11. If u tick shuffle its pretty self exmplained what happens if not it will just play all of a season like a normal playlist 
+12. Once done press create playlist the page should refresh if successfull if you ticked remember me your log in should be there to build another 
+
+PLAYLIST ADD-ON FEATURE
+Once a playlist is generated in the folder where you launched app.py youll see 2 new .py one saying run_playlist.py and another called playlist_cleaner.py below ill explain how they work
+
+RUN_PLAYLIST.PY will recreate the playlist that you just made when run this is handy if you like to build channels like Cartoon Network you should rename this file to the name of the playlist it goes to
+
+PLAYLIST_CLEANER.PY this will remove the playlist when run this is handy for keeping the channel playlist fresh 
+
+I would set up a scheduler for these if you want them changed daily make sure the cleaner is rand before the run to ensure it works as intended 
+
+everytime a playlist is created it will create a new run and cleaner so make sure to rename them so it doesnt erase the last one 
+
+13. COLLECTIONS SECTION
+this works exactly the same as playlists but it wont add commericals or shuffle so dont bother touching those 
+select what you want adding to the collection
+tick the create collection box 
+name your collection 
+hit create collection this will generate it in plex 
+
+this feature isnt something i feel is needed with this but its a thing if you want it 
+
+
+
+some anwsers to some questions you may have
+
+theres no cleaner or run for collection i feel it isnt needed for this
+
+everything is stored locally so no information is passed on 
+
+ive been testing while working on this and i havent had any issues server side or with the program it runs pretty flawlessly (until plex breaks it)
+
+any ideas for improvement are welcome
+
+hopefully this guide is in-depth enough 
