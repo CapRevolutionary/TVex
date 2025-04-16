@@ -31,7 +31,7 @@ TVex is a web-based tool that lets you create smart, dynamic Plex playlists with
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/tvex.git
+   git clone https://github.com/CapRevolutionary/tvex.git
    cd tvex
    ```
 
