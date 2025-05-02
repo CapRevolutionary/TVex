@@ -35,7 +35,7 @@ Enter their Library names
 
 Choose a specific Collection if desired
 
-Enable the respective checkboxes and set how many you want per episode
+Enable the respective checkboxes and set how many you want per episode (DO NOT CHANGE IDENTS FROM 1)
 
 Click Load Shows
 
