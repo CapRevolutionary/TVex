@@ -1,0 +1,50 @@
+📦 Prerequisites
+Before starting, make sure you have:
+
+Python 3.7+ installed
+A working Plex Media Server
+Your Plex Token and Library names
+
+🛠 Installation
+Install dependencies
+
+pip install -r requirements.txt
+
+🚀 Running the App
+Start the server
+
+open app.py
+This will launch the web app automatically at:
+http://127.0.0.1:5000/
+
+🌐 Using the Web Interface
+
+1. Connect to Plex
+Enter your Plex URL (e.g. http://localhost:32400)
+
+Enter your Plex Token
+
+2. Basic Playlist Creation
+Enter a Playlist Name
+
+Provide the TV Library Name (e.g., TV Shows)
+
+To insert Commercials, Bumps, or Idents:
+
+Enter their Library names
+
+Choose a specific Collection if desired
+
+Enable the respective checkboxes and set how many you want per episode
+
+Click Load Shows
+
+Click posters to select shows, or use the season/episode dropdowns to pick specific episodes
+
+3. Create Playlist
+Click the Create Playlist button
+
+If successful, a message will appear confirming the number of items added
+
+4. (Optional) Create Collection
+Check “Create Collection” and provide a name to group these items in Plex

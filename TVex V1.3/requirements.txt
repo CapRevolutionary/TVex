@@ -1,0 +1,3 @@
+Flask
+plexapi
+flask-cors
