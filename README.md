@@ -53,7 +53,8 @@ Before loading shows, you can configure additional media to insert around episod
   - Enable **Add Idents**
   - Enter the **Idents Library Name**
   - (Optional) Choose a **Collection**
-  - Choose how many idents to add before and after each episode
+  - DONT CHANGE IDENTS FROM 1
+  - MAKE SURE TO ENTER YOUR COMMERCIAL,BUMPS AND IDENTS INFORMATION BEFORE LOADING SHOWS
 
 You can also:
 - Enable **Shuffle Episodes**
@@ -98,3 +99,5 @@ python run_playlist.py
 ```bash
 python playlist_cleaner.py
 ```
+
+REMEMBER ME IS BUGGED ATM 
